@@ -3,8 +3,12 @@
 # Enter your code on line 7 to print 'Hello, World!'
 # to the console (the panel on the right)
 
-print("Hello");
-
+print ("Hello");
+print("Hello, World!");
+print("Hello, my name is Josh");
+print("7")      
+print("2 + 2");
+print("you miss one hundred percent of the shots you dont take - Michael Scott")
 # Next, PLAY!
 # Modify your code on line 7 to try to accomplish the tasks listed below:
 
